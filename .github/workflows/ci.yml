@@ -11,9 +11,10 @@ jobs:
         uses: actions/checkout@master
 
       - name: Build and Deploy
-        uses: JamesIves/github-pages-deploy-action@master
+        uses: gengkeke/seo-web-react-action@master
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: action-pages
+          BASE_BRANCH: master
+          BRANCH: pro
           FOLDER: build
           BUILD_SCRIPT: npm install && npm run build
