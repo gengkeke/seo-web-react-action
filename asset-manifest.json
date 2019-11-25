@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/seo-web-react-action/static/css/main.e7bf4fc4.chunk.css",
+    "main.js": "/seo-web-react-action/static/js/main.20d01f2c.chunk.js",
+    "main.js.map": "/seo-web-react-action/static/js/main.20d01f2c.chunk.js.map",
+    "runtime~main.js": "/seo-web-react-action/static/js/runtime~main.546500c4.js",
+    "runtime~main.js.map": "/seo-web-react-action/static/js/runtime~main.546500c4.js.map",
+    "static/css/2.a4e20da7.chunk.css": "/seo-web-react-action/static/css/2.a4e20da7.chunk.css",
+    "static/js/2.bb5d65a4.chunk.js": "/seo-web-react-action/static/js/2.bb5d65a4.chunk.js",
+    "static/js/2.bb5d65a4.chunk.js.map": "/seo-web-react-action/static/js/2.bb5d65a4.chunk.js.map",
+    "index.html": "/seo-web-react-action/index.html",
+    "precache-manifest.07be1186a4a8073cb6a68fb1cd9adf83.js": "/seo-web-react-action/precache-manifest.07be1186a4a8073cb6a68fb1cd9adf83.js",
+    "service-worker.js": "/seo-web-react-action/service-worker.js",
+    "static/css/2.a4e20da7.chunk.css.map": "/seo-web-react-action/static/css/2.a4e20da7.chunk.css.map",
+    "static/css/main.e7bf4fc4.chunk.css.map": "/seo-web-react-action/static/css/main.e7bf4fc4.chunk.css.map",
+    "static/media/login.less": "/seo-web-react-action/static/media/background.5825f033.svg",
+    "static/media/logo.svg": "/seo-web-react-action/static/media/logo.f3103225.svg"
+  }
+}
